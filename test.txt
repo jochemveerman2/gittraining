@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Wijziging in main branch" 
+=======
+"Wijziging in feature-test branch" 
+>>>>>>> feature-test
